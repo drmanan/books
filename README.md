@@ -2,10 +2,10 @@
 
 A collection of books. Computer Science, Programming, Levels of design, etc.
 
-List and comments about available books. 
+List and comments about available books.
 
 Book|Author|Topic|Comment
----	|---|---|---	
+---|---|---|---
 [Algo & DS][2]|Niklaus Wirth|[CS][cs]-[Core][cscore]|A classic to understand the basics. A book before its time and forms a base for a book like [CLRS][clrs].
 [Beginning Ruby - From Novice to Professional][1]|Peter Cooper|[Prog][prog]-[Rb][rb]| A guide for every type of reader who wants to learn Ruby from the ground up.
 [Clean Code][bob1]|Uncle Bob|[LLD]|A must read for any student of code to develop an actual coder.
@@ -14,13 +14,15 @@ Book|Author|Topic|Comment
 [Computer Organization and Architecture][3]|William Stallings|[CS][cs]-[Core][cscore]|How does a computer work internally? It is not just a black box doing Input --> Processing --> Output. This cult status book dives deep into how processors process data, how memory works, etc. and teaches the absolute essence of computers.
 [Introduction to Algorithms][clrs]|Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein|[CS][cs]-[Core][cscore]|The absolute bible for Algorithms. It can take atleast a couple of months before you get comfortable with it. So do not try reading it within a week or two, or skim through it. Algorithms are described in simple pseudo-code, designed to be readable for anyone with some programming experience.
 [JS for Cats][5]|[@maxogden](https://github.com/maxogden)|[Prog][prog]-[JS][js]|A quick and witty intro to JavaScript. Checkout the book's [github](https://github.com/maxogden/javascript-for-cats). *New version at [book's repo.](https://github.com/maxogden/javascript-for-cats).*
-[YDKJS][4]|Kyle Simpson|[Prog][prog]-[JS][js]|A 3 chapter masterpiece which builds you as a programmer from scratch. Starting from how to program, then introducing JS and then a deeper dive, this small book has it all. Part of You don't know series of similar books.
+[YDK-JS][4]|Kyle Simpson|[Prog][prog]-[JS][js]|A 3 chapter masterpiece which builds you as a programmer from scratch. Starting from how to program, then introducing JS and then a deeper dive, this small book has it all. Part of You don't know series of similar books.
+[The C Programming Language][6]|K&R|[Prog][prog]-[C][c]|The book written by the OGs of the C programming language, Brian Kernighan and Dennis Ritchie, the latter of whom originally designed and implemented the language, as well as co-designed the Unix operating system with which development of the language was closely intertwined.
+C The Complete Reference|Herbert Schildt|[Prog][prog]-[C][c]|The book gives an in-depth coverage of the C language and function libraries features.
 
 ## License
 
 > // **TODO**: Look for a better License.
 
-### I do **NOT** hold copyrights to any material attributed to respective authors. The materials here are gathered through public sources.
+### I do **NOT** hold copyrights to any material attributed to respective authors. The materials here are gathered through public sources
 
 [The Unilisence](./LICENSE): The idea is the same as **Software** but just consider these resources as the same.
 
@@ -32,6 +34,7 @@ Book|Author|Topic|Comment
 [prog]: ./Prog/
 [js]: ./Prog/js/
 [rb]: ./Prog/rb/
+[c]: ./Prog/c/
 
 <!-- List of books -->
 
@@ -41,6 +44,7 @@ Book|Author|Topic|Comment
 [3]: ./CS/core/Computer%20Organization%20and%20Architecture.pdf
 [4]: ./Prog/js/You%20Dont%20Know%20JS%20Up&Going.pdf
 [5]: ./Prog/js/javascript-for-cats.pdf
+[6]: ./Prog/c/k%26r.pdf
 
 <!-- Uncle bob's books -->
 [bob1]: ./LLD/Clean%20Code.pdf
