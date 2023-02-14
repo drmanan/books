@@ -5,7 +5,7 @@ A collection of books. Computer Science, Programming, Levels of design, etc.
 List and comments about available books.
 
 Book|Author|Topic|Subtopic|Comment
----|---|---|---|---
+-|-|-|-|-
 [Algo & DS][2]|Niklaus Wirth|[CS][cs]|[Core][cscore]|A classic to understand the basics. A book before its time and forms a base for a book like [CLRS][clrs].
 [Beginning Ruby - From Novice to Professional][1]|Peter Cooper|[Prog][prog]|[Rb][rb]| A guide for every type of reader who wants to learn Ruby from the ground up.
 [C The Complete Reference][7]|Herbert Schildt|[Prog][prog]|[C][c]|The book gives an in-depth coverage of the C language and function libraries features.
